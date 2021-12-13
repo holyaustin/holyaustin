@@ -39,7 +39,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
+and more ...
 <br />
 <br />
 
@@ -47,27 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [CodeCats 10k NFT Collection: The Plan &lpar;I need your help!&rpar;](https://youtu.be/23VccB7EWVY)
-- [ZERO Gas Purchases on OpenSea!! How to buy NFTs on Polygon](https://youtu.be/23VccB7EWVY)
-- [How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT In Under 1 Hour Without Coding Knowledge](https://youtu.be/23VccB7EWVY)
-- [STACKr News Weekly: Developer Trends 2022 🔥, Studio Tour 📷, 5 Steps to become a Programmer 5️⃣](https://youtu.be/23VccB7EWVY)
-- [My ULTIMATE 2021 Studio Tour!! - How I Make My Videos - Welcome to STACKr Studio!!](https://www.youtube.com/channel/UC07yY6vK-9QYrjHwqnw0ZGg)
-<!-- YOUTUBE:END -->
-
 ➡️ [more videos...](https://youtube.com)
 
 ---
 
 ### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://)
-- [Microinteractions: Password Validation Animation](https://)
-- [Notion + YouTube - A Powerful Combination for Productivity](https:)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://)
-- [Emmet Part 2 - Advanced](https://)
-<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://holyaustin.hashnode.dev/)
 
