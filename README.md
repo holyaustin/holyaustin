@@ -95,11 +95,11 @@
 
 [website]: https://holyaustin.hashnode.dev/
 [facebook]: https://www.facebook.com/holyaustin/
-[twitter]: hhttps://twitter.com/holyaustin
+[twitter]: https://twitter.com/holyaustin
 [youtube]: https://www.youtube.com/channel/UC07yY6vK-9QYrjHwqnw0ZGg
 [Telegram]: https://t.me/holyaustin
 [linkedin]: https://www.linkedin.com/in/holyaustin/
-[webdevplaylist]: 
-[jsplaylist]: https:
-[cssplaylist]: https:
-[reactplaylist]: 
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
