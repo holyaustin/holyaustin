@@ -1,9 +1,9 @@
-### Hi, I'm Augustine Onuora - aka [holyaustin][website] 👋 
+### Hi, I'm Austin - aka [holyaustin][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fholyaustin.com)](https://holyaustin.hashnode.dev/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/holyaustin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fholyaustin&screen_name=holyaustin)
 
-## I'm a Developer, Engineer, Researcher and Teacher!!
+## I'm a Blockchain Smart contract Developer, Fullstack, Network Researcher and Teacher!!
 
 - 🔭 I am about to launched a blockchain project: [delib][course]!
 - 🌱 I’m currently learning everything 🤣
