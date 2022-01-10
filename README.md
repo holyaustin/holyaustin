@@ -47,7 +47,7 @@ and more ...
 
 ### 📺 Latest YouTube Videos
 
-➡️ [more videos...](https://youtube.com)
+➡️ [more videos...](https://www.youtube.com/channel/UC07yY6vK-9QYrjHwqnw0ZGg)
 
 ---
 
