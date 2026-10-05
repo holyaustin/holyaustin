@@ -1,6 +1,6 @@
 # Hi, I'm Austin — aka [@holyaustin](https://github.com/holyaustin) 👋
 
-### Blockchain Engineer • Full-Stack Developer • Researcher • Educator
+### AI Engineer • Blockchain Engineer • Full-Stack Developer • Researcher • Educator
 
 I build software at the intersection of **Web3, blockchain, full-stack engineering, artificial intelligence, and real-world problem solving**.
 
